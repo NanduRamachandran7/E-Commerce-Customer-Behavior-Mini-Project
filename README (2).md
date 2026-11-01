@@ -14,7 +14,7 @@ Understand **how the business is performing, who the customers are, which produc
 
 | Item | Detail |
 |---|---|
-| Source | `[ADD DATASET LINK HERE]` |
+| Source | `https://huggingface.co/datasets/maorsoul/ecommerce_customer_behavior_dataset/tree/main` |
 | Size | 5,000 orders, 5,000 customers, 8 product categories, 10 cities |
 | Period | 1 Jan 2023 – 26 Mar 2024 |
 | Tables | `Customer_Behaviour_Dataset` (orders, 18 columns), `Product_categorycatalog_dataset` (8 rows, 9 columns), `Customer_engagement_dataset` (5,000 rows, 9 columns) |
